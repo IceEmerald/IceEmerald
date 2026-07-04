@@ -1,5 +1,7 @@
 # 🐾 | Hewwo, my name is IceEmerald! :3
 
+---
+
 ### 🐱 | About Me
 I'm a passionate developer and a dedicated **cat human / cat boy** ^-^.
 My journey in tech is driven by curiosity and a desire to create impactful projects. I love diving into new technologies and building innovative solutions.
@@ -10,7 +12,7 @@ My journey in tech is driven by curiosity and a desire to create impactful proje
 
 ### 📊 | GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IceEmerald&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IceEmerald&theme=radical&hide_border=true&bg_color=00000000"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IceEmerald&theme=radical&hide_border=true&background=00000000"/>
 </div>
 
