@@ -1,4 +1,4 @@
-# 🐾 | Hewwo, my name is IceEmerald! :3
+## 🐾 | Hewwo, my name is IceEmerald! :3
 
 ---
 
