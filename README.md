@@ -26,9 +26,3 @@ My journey in tech is driven by curiosity and a desire to create impactful proje
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iceemerald@emeraldnetwork.groups.id)
 
 </div>
-
----
-
-<div align="center">
-  <sub>Made with 💚 by IceEmerald</sub>
-</div>
