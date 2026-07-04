@@ -1,7 +1,5 @@
 ## 🐾 | Hewwo, my name is IceEmerald! :3
 
----
-
 ### 🐱 | About Me
 I'm a passionate developer and a dedicated **cat human / cat boy** ^-^.
 My journey in tech is driven by curiosity and a desire to create impactful projects. I love diving into new technologies and building innovative solutions.
