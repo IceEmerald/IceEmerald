@@ -1,4 +1,4 @@
-### 🐾 | Hewwo
+### 🐾 | Hewwo, I'm IceEmerald! :3
 
 ### 🐱 | About Me
 I'm a passionate developer and a dedicated **cat human / cat boy** ^-^.
